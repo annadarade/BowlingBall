@@ -1,0 +1,16 @@
+E:\Projects\BowlingBallScoring\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Projects\BowlingBallScoring\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Projects\BowlingBallScoring\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Projects\BowlingBallScoring\BowlingBall.Tests\bin\Debug\BowlingBall.Tests.dll
+E:\Projects\BowlingBallScoring\BowlingBall.Tests\bin\Debug\BowlingBall.Tests.pdb
+E:\Projects\BowlingBallScoring\BowlingBall.Tests\bin\Debug\BowlingBallScoring.dll
+E:\Projects\BowlingBallScoring\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Projects\BowlingBallScoring\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Projects\BowlingBallScoring\BowlingBall.Tests\bin\Debug\BowlingBallScoring.pdb
+E:\Projects\BowlingBallScoring\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Projects\BowlingBallScoring\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Projects\BowlingBallScoring\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.csprojAssemblyReference.cache
+E:\Projects\BowlingBallScoring\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.csproj.CoreCompileInputs.cache
+E:\Projects\BowlingBallScoring\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.csproj.CopyComplete
+E:\Projects\BowlingBallScoring\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.dll
+E:\Projects\BowlingBallScoring\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.pdb

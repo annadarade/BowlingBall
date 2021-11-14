@@ -1,0 +1,6 @@
+E:\Projects\BowlingBallScoring\BowlingBallScoring\bin\Debug\BowlingBallScoring.dll
+E:\Projects\BowlingBallScoring\BowlingBallScoring\bin\Debug\BowlingBallScoring.pdb
+E:\Projects\BowlingBallScoring\BowlingBallScoring\obj\Debug\BowlingBallScoring.csprojAssemblyReference.cache
+E:\Projects\BowlingBallScoring\BowlingBallScoring\obj\Debug\BowlingBallScoring.csproj.CoreCompileInputs.cache
+E:\Projects\BowlingBallScoring\BowlingBallScoring\obj\Debug\BowlingBallScoring.dll
+E:\Projects\BowlingBallScoring\BowlingBallScoring\obj\Debug\BowlingBallScoring.pdb
